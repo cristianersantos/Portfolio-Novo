@@ -37,7 +37,9 @@ O site é completamente responsivo e foi testado para funcionar bem em dispositi
   - [GitHub](https://github.com/cristianersantos)
   - [Demonstração](https://cristianersantos.github.io/Portfolio-Novo/)
 
-- **Projeto Dois**: Em breve 
+- **Projeto Dois**: Product Preview Card by Frontend Mentor
+-  [Demonstração](https://cristianersantos.github.io/preview-card-component/)
+-  
 - **Projeto Três**: Em breve 
 
 ## 📬 Contato
