@@ -153,7 +153,7 @@ a:hover {
 
 section{
     padding-top: 4vh;
-    height: 96vh;
+    height: 95vh;
     margin: 0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
@@ -223,9 +223,10 @@ section{
 /* BUTTONS */
 
 .btn-container {
+    padding: 20px;
     display: flex;
     justify-content: center;
-    gap: 1rem;
+    gap: 2rem;
 }
 
 .btn {
@@ -245,12 +246,12 @@ section{
 }
 
 .btn-color-1 {
-  background: #A67437;
+  background: #245C73;
   color: #000;
 }
 
 .btn-color-1:hover {
-  background: #245C73;
+  background: #A67437;
 }
 
 .btn-container {
@@ -305,8 +306,8 @@ section{
 }
 
 .section__pic-container {
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     margin: auto 0;
 }
 
@@ -314,6 +315,8 @@ section{
 
 #skills {
     position: relative;
+    padding-bottom: 2rem;
+    height: auto;
 }
 
 .experience-sub-title {
@@ -344,7 +347,7 @@ section{
     gap: 0.5rem;
 }
 
-article.icon {
+.article.icon {
     cursor: default;
 }
 
@@ -369,27 +372,11 @@ article.icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 70vh;
+    height: auto;
+    padding-top: 3rem;
+  
 }
 
-.contact-info-upper-container {
-    display: flex;
-    justify-content: center;
-    border-radius: 2rem;
-    border: #000 0.1rem solid;
-    border-color: rgb(53, 53, 53);
-    background: rgb(240, 222, 217);
-    margin: 2rem auto;
-    padding: 0.5rem;
-}
-
-.contact-info-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.5rem;
-    margin: 1rem;
-}
 
 .contact-info-container p{
     font-size: larger;
